@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MwamiToussaint
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning app dev
-- 💞️ I’m looking to collaborate on app dev
+- 🌱 I’m currently learning DevSecOPs
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me +27 817 079 247
 - ⚡ Fun fact: ...
 
