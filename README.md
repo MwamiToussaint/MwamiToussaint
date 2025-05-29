@@ -30,6 +30,6 @@ I believe in precision, data-driven development, and bridging technical innovati
 If you're working on an MVP, need data science expertise, or want to craft intelligent dashboards, I'd love to collaborate.
 
 
-📧 Email: your-email@example.com 💼 LinkedIn: https://www.linkedin.com/in/mwami-toussaint-836182117/  🔗 Website: 
+📧 Email: mwamitoussaint@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/mwami-toussaint-836182117/  🔗 Website: 
 
 --->
